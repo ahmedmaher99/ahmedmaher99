@@ -10,8 +10,6 @@
 
 # 👨‍💻 About Me
 
-# 👨‍💻 About Me
-
 I am a **Data Analyst and Business Intelligence Specialist** with strong experience in transforming raw data into meaningful insights and business solutions.
 
 Currently working as a **Data Analytics Instructor at the National Telecommunication Institute (NTI)**, where I train students and early-career professionals in modern data analytics tools and methodologies including **Python, SQL, Excel, Power BI, and Tableau**.
@@ -19,6 +17,7 @@ Currently working as a **Data Analytics Instructor at the National Telecommunica
 My work focuses on building **automated dashboards, ETL workflows, and data-driven reporting systems** across industries such as healthcare, oil & gas, retail, and finance.
 
 🎓 Graduated **First in Class with Honors**
+
 🏆 Awarded **Ideal Student Award** for academic excellence and leadership
 
 ---
