@@ -18,7 +18,7 @@ Experienced in building **automated dashboards, ETL pipelines, and data-driven b
 
 ---
 
-# 🚀 Technical Skills
+#  Technical Skills
 
 ### 📊 Data Analysis
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -51,30 +51,30 @@ Experienced in building **automated dashboards, ETL pipelines, and data-driven b
 
 ---
 
-# 📊 Featured Projects
+#  Featured Projects
 
-### 🛢 ADNOC Oil & Gas Performance Dashboard
+###  ADNOC Oil & Gas Performance Dashboard
 Power BI dashboard analyzing production efficiency and operational KPIs across upstream and downstream sectors.
 
 **Tools:** Python, SQL, Power BI, DAX
 
 ---
 
-### 💰 Aramco Sales & Income Dashboard
+###  Aramco Sales & Income Dashboard
 Interactive Excel dashboard analyzing regional sales performance and B2B/B2C segmentation.
 
 **Tools:** Excel, Power Query, PivotTables
 
 ---
 
-### 🏥 Hospital Management Dashboard
+###  Hospital Management Dashboard
 ETL-based Power BI dashboard analyzing hospital KPIs, physician performance, and financial metrics.
 
 **Tools:** Python, MySQL, Power BI
 
 ---
 
-### 🌦 Weather Forecast Dashboard
+###  Weather Forecast Dashboard
 Dynamic Power BI dashboard integrated with a weather API to analyze real-time and historical weather data.
 
 **Tools:** Python, API Integration, Power BI
@@ -90,8 +90,7 @@ Dynamic Power BI dashboard integrated with a weather API to analyze real-time an
 # 📬 Contact Me
 
 📧 **Email:** ahmed.maher.w515@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/  
-💻 **GitHub:** https://github.com/YOUR_USERNAME  
+💼 **LinkedIn:** [https://www.linkedin.com/](https://www.linkedin.com/in/ahmed-maher99/)   
 
 ---
 
