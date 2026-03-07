@@ -1,32 +1,17 @@
-<h1 align="center">Ahmed Maher</h1>
-<h3 align="center">Data Analyst | Business Intelligence Specialist | Data Analytics Instructor</h3>
+<div align="center">
 
-<p align="center">
-Transforming data into actionable insights through analytics, dashboards, and data storytelling.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ahmed%20Maher&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-<p align="center">
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Ahmed+Maher;Data+Analyst;Business+Intelligence+Specialist;Power+BI+%7C+Python+%7C+SQL"/>
 
-<a href="mailto:ahmed.maher.w515@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 # 👨‍💻 About Me
 
-Data Analyst and Business Intelligence Specialist with strong experience in **SQL, Python, Power BI, and Tableau**.  
-
-I specialize in building **automated dashboards, ETL pipelines, and data-driven business solutions** across industries including healthcare, oil & gas, retail, and finance.
+Data Analyst & Business Intelligence Specialist skilled in **SQL, Python, Power BI, and Tableau**.  
+Experienced in building **automated dashboards, ETL pipelines, and data-driven business solutions** across healthcare, oil & gas, retail, and financial sectors.
 
 🎓 Graduated **First in Class with Honors**  
 🏆 Awarded **Ideal Student Award** for academic excellence and leadership.
@@ -35,29 +20,29 @@ I specialize in building **automated dashboards, ETL pipelines, and data-driven 
 
 # 🚀 Technical Skills
 
-### Data Analysis
+### 📊 Data Analysis
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - R (tidyverse, ggplot2)
 - SQL
 - Excel (Power Query, PivotTables)
 
-### Business Intelligence
+### 📈 Business Intelligence
 - Power BI
 - Tableau
-- Data Visualization
 - KPI Dashboards
+- Data Visualization
 
-### Databases
+### 🗄 Databases
 - SQL Server
 - MySQL
 - PostgreSQL
 
-### Cloud & Big Data
+### ☁ Cloud & Big Data
 - AWS S3
 - AWS Redshift
 - Azure Synapse
 
-### Tools
+### 🛠 Tools
 - Git & GitHub
 - Jupyter Notebook
 - Google Colab
@@ -108,8 +93,28 @@ Dynamic Power BI dashboard integrated with a weather API to analyze real-time an
 
 ---
 
+# 🔥 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue"/>
+</p>
+
+---
+
 # 📬 Contact Me
 
-📧 Email: ahmed.maher.w515@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/  
-💻 Portfolio: Your Portfolio Link
+📧 **Email:** ahmed.maher.w515@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/  
+💻 **GitHub:** https://github.com/YOUR_USERNAME  
+
+---
+
+⭐ *Turning data into actionable insights through analytics, dashboards, and data storytelling.*
