@@ -93,21 +93,9 @@ Dynamic Power BI dashboard integrated with a weather API to analyze real-time an
 
 ---
 
-# 🔥 GitHub Activity
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
 
----
 
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue"/>
-</p>
-
----
 
 # 📬 Contact Me
 
