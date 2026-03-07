@@ -33,7 +33,6 @@ My work focuses on building **automated dashboards, ETL workflows, and data-driv
 ### 📈 Business Intelligence
 - Power BI
 - Tableau
-- KPI Dashboards
 - Data Visualization
 
 ### 🗄 Databases
