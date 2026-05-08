@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ahmed%20Maher&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Ahmed+Maher;Data+Analyst;Business+Intelligence+Specialist;Power+BI+%7C+Python+%7C+SQL"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Ahmed+Maher;Data+Analyst;Business+Intelligence+Specialist;Data+Analytics+Instructor;Power+BI+%7C+Tableau+%7C+Python+%7C+SQL"/>
 
 </div>
 
@@ -10,13 +10,13 @@
 
 # 👨‍💻 About Me
 
-I am a **Data Analyst and Business Intelligence Specialist** with strong experience in transforming raw data into meaningful insights and business solutions.
+I am a **Data Analyst, Business Intelligence Specialist and Data Analytics Instructor** with strong experience in transforming raw data into meaningful insights and business solutions.
 
 Currently working as a **Data Analytics Instructor at the National Telecommunication Institute (NTI)**, where I train students and early-career professionals in modern data analytics tools and methodologies including **Python, SQL, Excel, Power BI, and Tableau**.
 
 My work focuses on building **automated dashboards, ETL workflows, and data-driven reporting systems** across industries such as healthcare, oil & gas, retail, and finance.
 
-🎓 Graduated **First in Class with Honors**
+🎓 Graduated **First in Class with Excellent with Honor**
 
 🏆 Awarded **Ideal Student Award** for academic excellence and leadership
 
