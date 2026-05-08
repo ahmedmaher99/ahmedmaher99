@@ -24,28 +24,28 @@ My work focuses on building **automated dashboards, ETL workflows, and data-driv
 
 #  Technical Skills
 
-### 📊 Data Analysis
+###  Data Analysis
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - R (tidyverse, ggplot2)
 - SQL
 - Excel (Power Query, PivotTables)
 
-### 📈 Business Intelligence
+###  Business Intelligence
 - Power BI
 - Tableau
-- Data Visualization
+- Microsoft Fabric
 
-### 🗄 Databases
+
+###  Databases
 - SQL Server
 - MySQL
 - PostgreSQL
 
-### ☁ Cloud & Big Data
-- AWS S3
+###  Cloud & Big Data
 - AWS Redshift
-- Azure Synapse
 
-### 🛠 Tools
+
+###  Tools
 - Git & GitHub
 - Jupyter Notebook
 - Google Colab
@@ -59,22 +59,21 @@ My work focuses on building **automated dashboards, ETL workflows, and data-driv
 ###  ADNOC Oil & Gas Performance Dashboard
 Power BI dashboard analyzing production efficiency and operational KPIs across upstream and downstream sectors.
 
-**Tools:** Python, SQL, Power BI, DAX
+**Tools:** Python, PostgreSQL, Power BI, DAX, Data Modeling, ETL
 
 ---
 
 ###  Aramco Sales & Income Dashboard
 Interactive Excel dashboard analyzing regional sales performance and B2B/B2C segmentation.
 
-**Tools:** Excel, Power Query, PivotTables
+**Tools:** Microsoft Excel
 
 ---
 
 ###  Hospital Management Dashboard
 ETL-based Power BI dashboard analyzing hospital KPIs, physician performance, and financial metrics.
 
-**Tools:** Python, MySQL, Power BI
-
+**Tools:** Python, MySQL, Power BI, ETL, Power Query, DAX
 ---
 
 ###  Weather Forecast Dashboard
