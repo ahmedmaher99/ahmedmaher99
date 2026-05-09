@@ -96,5 +96,3 @@ Dynamic Power BI dashboard integrated with a weather API to analyze real-time an
 💼 **LinkedIn:** [https://www.linkedin.com/](https://www.linkedin.com/in/ahmed-maher99/)   
 
 ---
-
-⭐ *Turning data into actionable insights through analytics, dashboards, and data storytelling.*
