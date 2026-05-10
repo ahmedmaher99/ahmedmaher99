@@ -134,7 +134,7 @@ IBM certification focused on Python programming, data science fundamentals, anal
 
 Professional training certificate focused on developing practical, technical, and analytical skills in business intelligence, data analytics, dashboard development, and data driven decision making for modern analytics careers.
 ---
-## First in Class Certificate
+## Academic Excellence Certificate
 
 <p align="center">
   <img src="https://github.com/ahmedmaher99/Certificates/blob/main/Academic%20Excellence%20Certificate.jpeg" width="850"/>
