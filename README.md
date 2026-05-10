@@ -85,7 +85,59 @@ Dynamic Power BI dashboard integrated with a weather API to analyze real-time an
 ---
 
 
+---
 
+# 🏆 Certifications
+
+## Microsoft Power BI Certificate
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedmaher99/Certificates/main/Microsoft%20Power%20BI%20Certificate.png" width="850"/>
+</p>
+
+Professional certification focused on dashboard development, DAX, Power Query, and business intelligence reporting using Microsoft Power BI.
+
+---
+
+## Microsoft Fabric Certificate
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedmaher99/Certificates/main/Microsoft%20fabric%20Certificate.png" width="850"/>
+</p>
+
+Certification covering Microsoft Fabric technologies including analytics workflows, cloud based reporting, and modern business intelligence solutions.
+
+---
+
+## Oracle Certificate
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedmaher99/Certificates/main/Oracl%20Certificate.png" width="850"/>
+</p>
+
+Professional certification demonstrating knowledge in SQL, databases, and enterprise data management concepts.
+
+---
+
+## IBM Certificate
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedmaher99/Certificates/main/IBM%20Certificate.jpg" width="850"/>
+</p>
+
+IBM certification focused on data analytics concepts, business problem solving, and practical analytical workflows.
+
+---
+
+## EYouth Certificate
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedmaher99/Certificates/main/EYouth.jpg" width="850"/>
+</p>
+
+Professional training certificate focused on developing practical and technical skills for modern technology and analytics careers.
+
+---
 
 
 
