@@ -8,7 +8,7 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 I am a **Data Analyst, Business Intelligence Specialist and Data Analytics Instructor** with strong experience in transforming raw data into meaningful insights and business solutions.
 
