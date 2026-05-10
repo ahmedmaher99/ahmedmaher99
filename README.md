@@ -87,7 +87,7 @@ Dynamic Power BI dashboard integrated with a weather API to analyze real-time an
 
 ---
 
-# 🏆 Certifications
+#  Certifications
 
 ## Microsoft Power BI Certificate
 
@@ -115,7 +115,7 @@ Certification covering Microsoft Fabric technologies including analytics workflo
   <img src="https://raw.githubusercontent.com/ahmedmaher99/Certificates/main/Oracl%20Certificate.png" width="850"/>
 </p>
 
-Professional certification demonstrating knowledge in SQL, databases, and enterprise data management concepts.
+Professional certification demonstrating knowledge in oracl clould .
 
 ---
 
@@ -125,7 +125,7 @@ Professional certification demonstrating knowledge in SQL, databases, and enterp
   <img src="https://raw.githubusercontent.com/ahmedmaher99/Certificates/main/IBM%20Certificate.jpg" width="850"/>
 </p>
 
-IBM certification focused on data analytics concepts, business problem solving, and practical analytical workflows.
+IBM certification focused on pyhton concepts, business problem solving, .
 
 ---
 
@@ -135,7 +135,7 @@ IBM certification focused on data analytics concepts, business problem solving, 
   <img src="https://raw.githubusercontent.com/ahmedmaher99/Certificates/main/EYouth.jpg" width="850"/>
 </p>
 
-Professional training certificate focused on developing practical and technical skills for modern technology and analytics careers.
+Professional training certificate focused on developing practical and technical skills for business intelligence and data analytics careers.
 
 ---
 
