@@ -137,7 +137,7 @@ Professional training certificate focused on developing practical, technical, an
 ## First in Class Certificate
 
 <p align="center">
-  <img src="https://github.com/ahmedmaher99/Certificates/blob/main/First%20in%20Class%20Certificate.jpeg" width="850"/>
+  <img src="https://github.com/ahmedmaher99/Certificates/blob/main/Academic%20Excellence%20Certificate.jpeg" width="850"/>
 </p>
 
 Awarded for achieving First in Class with Excellent with Honor, recognizing outstanding academic performance, dedication, and continuous excellence throughout the academic journey.
