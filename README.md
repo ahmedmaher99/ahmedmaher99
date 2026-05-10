@@ -115,7 +115,7 @@ Certification covering Microsoft Fabric technologies including analytics workflo
   <img src="https://raw.githubusercontent.com/ahmedmaher99/Certificates/main/Oracl%20Certificate.png" width="850"/>
 </p>
 
-Professional certification demonstrating knowledge in oracl clould .
+Professional certification demonstrating knowledge in oracle cloud .
 
 ---
 
