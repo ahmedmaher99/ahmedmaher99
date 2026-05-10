@@ -97,6 +97,7 @@ Dynamic Power BI dashboard integrated with a weather API to analyze real-time an
 </p>
 
 Professional certification demonstrating advanced expertise in business intelligence, interactive dashboard development, data modeling, DAX calculations, Power Query, and transforming complex datasets into actionable business insights using Microsoft Power BI.
+
 ---
 
 ## Microsoft Fabric Certificate
@@ -141,7 +142,6 @@ Professional training certificate focused on developing practical, technical, an
 </p>
 
 Awarded for achieving First in Class with Excellent with Honor, recognizing outstanding academic performance, dedication, and continuous excellence throughout the academic journey.
-
 ---
 
 
