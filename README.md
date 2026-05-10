@@ -125,7 +125,7 @@ Professional certification demonstrating knowledge in oracle cloud .
   <img src="https://raw.githubusercontent.com/ahmedmaher99/Certificates/main/IBM%20Certificate.jpg" width="850"/>
 </p>
 
-IBM certification focused on pyhton concepts, business problem solving, .
+IBM certification focused on pyhton concepts, business problem solving for data science  .
 
 ---
 
