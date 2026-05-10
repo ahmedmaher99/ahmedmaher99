@@ -88,15 +88,7 @@ Dynamic Power BI dashboard integrated with a weather API to analyze real-time an
 ---
 
 #  Certifications
-## First in Class Certificate
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedmaher99/Certificates/main/First-In-Class-Certificate.jpg" width="850"/>
-</p>
-
-Awarded for achieving First in Class with Excellent with Honor, recognizing outstanding academic performance, dedication, and continuous excellence throughout the academic journey.
-
----
 
 ## Microsoft Power BI Certificate
 
@@ -104,8 +96,7 @@ Awarded for achieving First in Class with Excellent with Honor, recognizing outs
   <img src="https://raw.githubusercontent.com/ahmedmaher99/Certificates/main/Microsoft%20Power%20BI%20Certificate.png" width="850"/>
 </p>
 
-Professional certification focused on dashboard development, DAX, Power Query, and business intelligence reporting using Microsoft Power BI.
-
+Professional certification demonstrating advanced expertise in business intelligence, interactive dashboard development, data modeling, DAX calculations, Power Query, and transforming complex datasets into actionable business insights using Microsoft Power BI.
 ---
 
 ## Microsoft Fabric Certificate
@@ -114,8 +105,7 @@ Professional certification focused on dashboard development, DAX, Power Query, a
   <img src="https://raw.githubusercontent.com/ahmedmaher99/Certificates/main/Microsoft%20fabric%20Certificate.png" width="850"/>
 </p>
 
-Certification covering Microsoft Fabric technologies including analytics workflows, cloud based reporting, and modern business intelligence solutions.
-
+Professional certification demonstrating expertise in Microsoft Fabric technologies, cloud based analytics, data integration, modern business intelligence workflows, and building scalable end to end data solutions for enterprise level reporting and analytics.
 ---
 
 ## Oracle Certificate
@@ -124,8 +114,7 @@ Certification covering Microsoft Fabric technologies including analytics workflo
   <img src="https://raw.githubusercontent.com/ahmedmaher99/Certificates/main/Oracl%20Certificate.png" width="850"/>
 </p>
 
-Professional certification demonstrating knowledge in oracle cloud .
-
+Professional certification demonstrating knowledge in Oracle Cloud technologies, cloud infrastructure, database management, and enterprise level cloud computing solutions.
 ---
 
 ## IBM Certificate
@@ -134,8 +123,7 @@ Professional certification demonstrating knowledge in oracle cloud .
   <img src="https://raw.githubusercontent.com/ahmedmaher99/Certificates/main/IBM%20Certificate.jpg" width="850"/>
 </p>
 
-IBM certification focused on pyhton concepts, business problem solving for data science  .
-
+IBM certification focused on Python programming, data science fundamentals, analytical problem solving, and applying data driven techniques to solve real world business challenges.
 ---
 
 ## EYouth Certificate
@@ -144,7 +132,15 @@ IBM certification focused on pyhton concepts, business problem solving for data 
   <img src="https://raw.githubusercontent.com/ahmedmaher99/Certificates/main/EYouth.jpg" width="850"/>
 </p>
 
-Professional training certificate focused on developing practical and technical skills for business intelligence and data analytics careers.
+Professional training certificate focused on developing practical, technical, and analytical skills in business intelligence, data analytics, dashboard development, and data driven decision making for modern analytics careers.
+---
+## First in Class Certificate
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedmaher99/Certificates/main/First-In-Class-Certificate.jpg" width="850"/>
+</p>
+
+Awarded for achieving First in Class with Excellent with Honor, recognizing outstanding academic performance, dedication, and continuous excellence throughout the academic journey.
 
 ---
 
