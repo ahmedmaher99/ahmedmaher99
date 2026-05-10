@@ -88,6 +88,15 @@ Dynamic Power BI dashboard integrated with a weather API to analyze real-time an
 ---
 
 #  Certifications
+## First in Class Certificate
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedmaher99/Certificates/main/First-In-Class-Certificate.jpg" width="850"/>
+</p>
+
+Awarded for achieving First in Class with Excellent with Honor, recognizing outstanding academic performance, dedication, and continuous excellence throughout the academic journey.
+
+---
 
 ## Microsoft Power BI Certificate
 
