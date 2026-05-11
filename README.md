@@ -75,7 +75,7 @@ Interactive Excel dashboard analyzing regional sales performance and B2B/B2C seg
 
 ###  Hospital Management Dashboard
 <p align="center">
-  <img src="Overview Dashboard.png" width="850"/>
+  <img src="https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Overview%20Dashboard.png" width="850"/>
 </p>
 ETL-based Power BI dashboard analyzing hospital KPIs, physician performance, and financial metrics.
 
