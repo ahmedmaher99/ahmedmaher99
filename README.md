@@ -62,6 +62,8 @@ Power BI dashboard analyzing production efficiency and operational KPIs across u
 
 **Tools:** Python, PostgreSQL, Power BI, DAX, Data Modeling, ETL
 
+
+
 ---
 
 ###  Aramco Sales & Income Dashboard
@@ -72,6 +74,9 @@ Interactive Excel dashboard analyzing regional sales performance and B2B/B2C seg
 ---
 
 ###  Hospital Management Dashboard
+<p align="center">
+  <img src="https://github.com/ahmedmaher99/Hospital-Management-Dashboard" width="850"/>
+</p>
 ETL-based Power BI dashboard analyzing hospital KPIs, physician performance, and financial metrics.
 
 **Tools:** Python, MySQL, Power BI, ETL, Power Query, DAX
