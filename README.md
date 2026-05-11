@@ -58,6 +58,9 @@ My work focuses on building **automated dashboards, ETL workflows, and data-driv
 # Recent Projects
 
 ###  ADNOC Oil & Gas Performance Dashboard
+<p align="center">
+  <img src="https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Overview%20Dashboard.png" width="850"/>
+</p>
 Power BI dashboard analyzing production efficiency and operational KPIs across upstream and downstream sectors.
 
 **Tools:** Python, PostgreSQL, Power BI, DAX, Data Modeling, ETL
@@ -67,6 +70,9 @@ Power BI dashboard analyzing production efficiency and operational KPIs across u
 ---
 
 ###  Aramco Sales & Income Dashboard
+<p align="center">
+  <img src="https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Overview%20Dashboard.png" width="850"/>
+</p>
 Interactive Excel dashboard analyzing regional sales performance and B2B/B2C segmentation.
 
 **Tools:** Microsoft Excel
@@ -83,6 +89,9 @@ ETL-based Power BI dashboard analyzing hospital KPIs, physician performance, and
 ---
 
 ###  Weather Forecast Dashboard
+<p align="center">
+  <img src="https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Overview%20Dashboard.png" width="850"/>
+</p>
 Dynamic Power BI dashboard integrated with a weather API to analyze real-time and historical weather data.
 
 **Tools:** Python, API Integration, Power BI
