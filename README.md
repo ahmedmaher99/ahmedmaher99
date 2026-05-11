@@ -93,7 +93,7 @@ Power BI dashboard analyzing production efficiency and operational KPIs across u
 
 ###  Weather Forecast Dashboard
 <p align="center">
-  <img src="https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Overview%20Dashboard.png" width="850"/>
+  <img src="https://github.com/ahmedmaher99/Weather-Forecast/blob/main/Weather%20Forcast%20API%20Dashboard%20Orange%20Design.jpeg" width="850"/>
 </p>
 Dynamic Power BI dashboard integrated with a weather API to analyze real-time and historical weather data.
 
