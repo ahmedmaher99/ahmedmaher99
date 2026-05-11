@@ -67,17 +67,7 @@ ETL-based Power BI dashboard analyzing hospital KPIs, physician performance, and
 **Tools:** Python, MySQL, Power BI, ETL, Power Query, DAX
 ---
 
-###  ADNOC Oil & Gas Performance Dashboard
-<p align="center">
-  <img src="https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Overview%20Dashboard.png" width="850"/>
-</p>
-Power BI dashboard analyzing production efficiency and operational KPIs across upstream and downstream sectors.
 
-**Tools:** Python, PostgreSQL, Power BI, DAX, Data Modeling, ETL
-
-
-
----
 
 ###  Aramco Sales & Income Dashboard
 <p align="center">
@@ -86,6 +76,17 @@ Power BI dashboard analyzing production efficiency and operational KPIs across u
 Interactive Excel dashboard analyzing regional sales performance and B2B/B2C segmentation.
 
 **Tools:** Microsoft Excel
+
+---
+###  ADNOC Oil & Gas Performance Dashboard
+<p align="center">
+  <img src="https://github.com/ahmedmaher99/ADNOC-Oil-and-Gas-Performance-Dashboard/blob/main/Home.jpeg" width="850"/>
+</p>
+Power BI dashboard analyzing production efficiency and operational KPIs across upstream and downstream sectors.
+
+**Tools:** Python, PostgreSQL, Power BI, DAX, Data Modeling, ETL
+
+
 
 ---
 
