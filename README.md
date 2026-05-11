@@ -71,7 +71,7 @@ Power BI dashboard analyzing production efficiency and operational KPIs across u
 
 ###  Aramco Sales & Income Dashboard
 <p align="center">
-  <img src="https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Overview%20Dashboard.png" width="850"/>
+  <img src="https://github.com/ahmedmaher99/Aramco-Dashboard/blob/main/Income%20Sources.png" width="850"/>
 </p>
 Interactive Excel dashboard analyzing regional sales performance and B2B/B2C segmentation.
 
