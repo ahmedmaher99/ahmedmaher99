@@ -14,7 +14,7 @@ I am a **Data Analyst, Business Intelligence Specialist and Data Analytics Instr
 
 Currently working as a **Data Analytics Instructor at the National Telecommunication Institute (NTI)**, where I train students and early-career professionals in modern data analytics tools and methodologies including **Python, SQL, Excel, Power BI, and Tableau**,I delivered 540+ hours of Data Analytics training and instruction.
 
-My work focuses on building **automated dashboards, ETL workflows, and data-driven reporting systems** across industries such as healthcare, oil & gas, retail, and finance.
+My work focuses on building **automated dashboards, ETL workflows, and data driven reporting systems** across industries such as healthcare, oil & gas, retail, and finance.
 
 🎓 Graduated **First in Class with Excellent with Honor**
 
@@ -43,8 +43,8 @@ My work focuses on building **automated dashboards, ETL workflows, and data-driv
 - PostgreSQL
 
 ###  Cloud & Big Data
-- AWS Redshift
-
+- AWS S3
+- Azure Synapse
 
 ###  Tools
 - Git & GitHub
@@ -69,7 +69,7 @@ ETL-based Power BI dashboard analyzing hospital KPIs, physician performance, and
 
 
 
-###  Aramco Sales & Income Dashboard
+###  Aramco Sales  and Income Dashboard
 <p align="center">
   <img src="https://github.com/ahmedmaher99/Aramco-Dashboard/blob/main/Income%20Sources.png" width="850"/>
 </p>
@@ -78,9 +78,9 @@ Interactive Excel dashboard analyzing regional sales performance and B2B/B2C seg
 **Tools:** Microsoft Excel
 
 ---
-###  ADNOC Oil & Gas Performance Dashboard
+###  ADNOC Oil and Gas Performance Dashboard
 <p align="center">
-  <img src="https://github.com/ahmedmaher99/ADNOC-Oil-and-Gas-Performance-Dashboard/blob/main/Home.jpeg" width="850"/>
+  <img src="https://github.com/ahmedmaher99/ADNOC-Oil-and-Gas-Performance-Dashboard/blob/main/Sales%20Dashboard.jpeg" width="850"/>
 </p>
 Power BI dashboard analyzing production efficiency and operational KPIs across upstream and downstream sectors.
 
