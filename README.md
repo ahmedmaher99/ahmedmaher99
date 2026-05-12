@@ -12,7 +12,7 @@
 
 I am a **Data Analyst, Business Intelligence Specialist and Data Analytics Instructor** with strong experience in transforming raw data into meaningful insights and business solutions.
 
-Currently working as a **Data Analytics Instructor at the National Telecommunication Institute (NTI)**, where I train students in modern data analytics tools and methodologies including **Python, SQL, Excel, Power BI, and Tableau**,I delivered 540+ hours of Data Analytics training and instruction.
+Currently working as a **Data Analytics Instructor at the National Telecommunication Institute (NTI)**, where I train Trainees in modern data analytics tools and methodologies including **Python, SQL, Excel, Power BI, and Tableau**,I delivered 540+ hours of  Data Analytics training sessions.
 
 My work focuses on building **automated dashboards, ETL workflows, and data driven reporting systems** across industries such as healthcare, oil & gas, retail, and finance.
 
