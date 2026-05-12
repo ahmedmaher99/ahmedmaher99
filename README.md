@@ -110,7 +110,7 @@ Dynamic Power BI dashboard integrated with a weather API to analyze real-time an
 ## Microsoft Power BI Certificate
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedmaher99/Certificates/main/Microsoft%20Power%20BI%20Certificate.png" width="850"/>
+  <img src="https://github.com/ahmedmaher99/Certificates/blob/main/Microsoft%20Power%20BI%20Certificate.png" width="850"/>
 </p>
 
 Professional certification demonstrating advanced expertise in business intelligence, interactive dashboard development, data modeling, DAX calculations, Power Query, and transforming complex datasets into actionable business insights using Microsoft Power BI.
