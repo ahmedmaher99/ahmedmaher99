@@ -120,7 +120,7 @@ Professional certification demonstrating advanced expertise in business intellig
 ## Microsoft Fabric Certificate
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedmaher99/Certificates/main/Microsoft%20fabric%20Certificate.png" width="850"/>
+  <img src="https://github.com/ahmedmaher99/Certificates/blob/main/Microsoft%20fabric%20Certificate.png" width="850"/>
 </p>
 
 Professional certification demonstrating expertise in Microsoft Fabric technologies, cloud based analytics, data integration, modern business intelligence workflows, and building scalable end to end data solutions for enterprise level reporting and analytics.
